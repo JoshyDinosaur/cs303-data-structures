@@ -1,3 +1,4 @@
+
 This file is the ReadMe for understanding and running the code of Assignment 3.
 
 ------------------------------
@@ -12,6 +13,9 @@ Running the main function defined in this class will perform operations that ver
 (1) Instantiate Josh's 10 favorite integers. (utilize offer)
 (2) Display all elements above. (utilize poll)
 
+<img width="801" height="214" alt="Screenshot 2026-04-19 at 3 05 23 PM" src="https://github.com/user-attachments/assets/680e5ed7-d607-4bd2-a39b-2ff4b8135a2e" />![Uploading Screenshot 2026-04-19 at 3.16.15 PM.png…]()
+
+
 ------------------------------
 JoshRecursion
 ------------------------------
@@ -20,6 +24,7 @@ JoshRecursion utilizes two methods to perform the recursive linear function to f
 
 The base cases are: the target is found, the list is exhausted. If neither is the case, the algorithm executes the recursive step.
 
+<img width="810" height="107" alt="Screenshot 2026-04-19 at 3 16 48 PM" src="https://github.com/user-attachments/assets/c9a6ffb8-c36b-43ab-9445-9e557792f6b6" />
 
 ------------------------------
 insertionSort
